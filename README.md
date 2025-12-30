@@ -1,4 +1,3 @@
-# Unicorn-Growth-Analytics---SQL-Case-Study
 ## Unicorn Growth Strategy – SQL Project
 
 SQL case study on global **unicorn companies**, using DataCamp’s database as a starting point but pushing the analysis much further with a growth, strategy and investor‑oriented lens.
